@@ -74,15 +74,17 @@ tail -n 1 $path
 
 #### 코드블럭
 * 코드블럭코드("```")를 이용
+<pre>
+<code>
 ```
-\```
 #include <stdio.h>
 
 int main() {
     printf("Hello, World!");
 }
-\```
 ```
+</code>
+</pre>
 ```
 #include <stdio.h>
 
