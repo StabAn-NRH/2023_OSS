@@ -74,8 +74,7 @@ tail -n 1 $path
 
 #### 코드블럭
 * 코드블럭코드("```")를 이용
-<pre>
-<code>
+<pre><code>
 ```
 #include <stdio.h>
 
@@ -83,8 +82,7 @@ int main() {
     printf("Hello, World!");
 }
 ```
-</code>
-</pre>
+</code></pre>
 ```
 #include <stdio.h>
 
@@ -93,15 +91,15 @@ int main() {
 }
 ```
 문법강조(Syntax highlighting)
-```
-\```c
+<pre><code>
+```c
 #include <stdio.h>
 
 int main() {
     printf("Hello, World!");
 }
-\```
 ```
+</code></pre>
 ```c
 #include <stdio.h>
 
