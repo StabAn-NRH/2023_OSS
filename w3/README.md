@@ -90,7 +90,7 @@ int main() {
     printf("Hello, World!");
 }
 ```
-문법강조(Syntax highlighting)
+__문법강조__(Syntax highlighting)
 <pre><code>
 ```c
 #include <stdio.h>
