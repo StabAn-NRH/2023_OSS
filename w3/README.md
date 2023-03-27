@@ -92,13 +92,13 @@ int main() {
 ```
 문법강조(Syntax highlighting)
 ```
-```c
+\```c
 #include <stdio.h>
 
 int main() {
     printf("Hello, World!");
 }
-```
+\```
 ```
 ```c
 #include <stdio.h>
